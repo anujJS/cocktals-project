@@ -1,15 +1,12 @@
-#### React Router Fix
+# Project - Name
 
-(Fix)[https://dev.to/dance2die/page-not-found-on-netlify-with-react-router-58mc]
+## Cocktail's flower 
+  
+  
 
-#### CRA Fix
+# Live link project
+https://cocktals-project.vercel.app/
 
-```
+## Teachnology used
 
-"build": "CI= react-scripts build",
-
-```
-
-```sh
-npm install react-router-dom@6
-```
+HTML, BootStrap, React JS
